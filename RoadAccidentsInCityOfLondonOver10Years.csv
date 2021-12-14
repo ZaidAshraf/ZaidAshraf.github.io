@@ -1,0 +1,103 @@
+﻿Accident year,Local authority,Ons code,Light condition,Weather condition,Road surface,All accidents
+2010,City of London,E09000001,Daylight,Fine no high winds,Dry,229
+2010,City of London,E09000001,Daylight,Fine no high winds,Wet or damp,7
+2010,City of London,E09000001,Daylight,Fine no high winds,Frost or ice,1
+2010,City of London,E09000001,Daylight,Raining no high winds,Wet or damp,9
+2010,City of London,E09000001,Daylight,Fine + high winds,Dry,1
+2010,City of London,E09000001,Darkness - lights lit,Fine no high winds,Dry,59
+2010,City of London,E09000001,Darkness - lights lit,Fine no high winds,Wet or damp,12
+2010,City of London,E09000001,Darkness - lights lit,Raining no high winds,Wet or damp,12
+2010,City of London,E09000001,Darkness - lights lit,Snowing no high winds,Wet or damp,1
+2010,City of London,E09000001,Darkness - lights unlit,Fine no high winds,Dry,2
+2011,City of London,E09000001,Daylight,Fine no high winds,Dry,220
+2011,City of London,E09000001,Daylight,Fine no high winds,Wet or damp,6
+2011,City of London,E09000001,Daylight,Fine no high winds,Frost or ice,1
+2011,City of London,E09000001,Daylight,Raining no high winds,Wet or damp,16
+2011,City of London,E09000001,Daylight,Fine + high winds,Dry,2
+2011,City of London,E09000001,Daylight,Fine + high winds,Wet or damp,1
+2011,City of London,E09000001,Darkness - lights lit,Fine no high winds,Dry,74
+2011,City of London,E09000001,Darkness - lights lit,Fine no high winds,Wet or damp,6
+2011,City of London,E09000001,Darkness - lights lit,Fine no high winds,Frost or ice,2
+2011,City of London,E09000001,Darkness - lights lit,Raining no high winds,Wet or damp,12
+2011,City of London,E09000001,Darkness - lights lit,Raining no high winds,Frost or ice,1
+2011,City of London,E09000001,Darkness - lights lit,Fine + high winds,Dry,1
+2011,City of London,E09000001,Darkness - lights lit,Raining + high winds,Wet or damp,1
+2012,City of London,E09000001,Daylight,Fine no high winds,Dry,225
+2012,City of London,E09000001,Daylight,Fine no high winds,Wet or damp,8
+2012,City of London,E09000001,Daylight,Raining no high winds,Wet or damp,20
+2012,City of London,E09000001,Darkness - lights lit,Fine no high winds,Dry,76
+2012,City of London,E09000001,Darkness - lights lit,Fine no high winds,Wet or damp,9
+2012,City of London,E09000001,Darkness - lights lit,Fine no high winds,Frost or ice,2
+2012,City of London,E09000001,Darkness - lights lit,Raining no high winds,Wet or damp,18
+2012,City of London,E09000001,Darkness - lights lit,Snowing no high winds,Wet or damp,1
+2012,City of London,E09000001,Darkness - lights lit,Snowing no high winds,Snow,1
+2012,City of London,E09000001,Darkness - lights lit,Raining + high winds,Wet or damp,2
+2012,City of London,E09000001,Darkness - lights unlit,Fine no high winds,Dry,3
+2012,City of London,E09000001,Darkness - lights unlit,Fine + high winds,Dry,1
+2013,City of London,E09000001,Daylight,Fine no high winds,Dry,201
+2013,City of London,E09000001,Daylight,Fine no high winds,Wet or damp,2
+2013,City of London,E09000001,Daylight,Raining no high winds,Wet or damp,17
+2013,City of London,E09000001,Daylight,Snowing no high winds,Wet or damp,1
+2013,City of London,E09000001,Daylight,Snowing no high winds,Snow,2
+2013,City of London,E09000001,Darkness - lights lit,Fine no high winds,Dry,70
+2013,City of London,E09000001,Darkness - lights lit,Fine no high winds,Wet or damp,1
+2013,City of London,E09000001,Darkness - lights lit,Raining no high winds,Wet or damp,7
+2013,City of London,E09000001,Darkness - lights lit,Fine + high winds,Wet or damp,1
+2013,City of London,E09000001,Darkness - lights lit,Fog or mist,Wet or damp,1
+2013,City of London,E09000001,Darkness - lights unlit,Fine no high winds,Dry,2
+2014,City of London,E09000001,Daylight,Fine no high winds,Dry,241
+2014,City of London,E09000001,Daylight,Fine no high winds,Wet or damp,11
+2014,City of London,E09000001,Daylight,Raining no high winds,Wet or damp,15
+2014,City of London,E09000001,Daylight,Fine + high winds,Wet or damp,1
+2014,City of London,E09000001,Darkness - lights lit,Fine no high winds,Dry,61
+2014,City of London,E09000001,Darkness - lights lit,Fine no high winds,Wet or damp,4
+2014,City of London,E09000001,Darkness - lights lit,Raining no high winds,Wet or damp,7
+2014,City of London,E09000001,Darkness - lights lit,Fine + high winds,Wet or damp,1
+2014,City of London,E09000001,Darkness - lights lit,Raining + high winds,Wet or damp,1
+2015,City of London,E09000001,Daylight,Fine no high winds,Dry,230
+2015,City of London,E09000001,Daylight,Fine no high winds,Wet or damp,4
+2015,City of London,E09000001,Daylight,Raining no high winds,Wet or damp,5
+2015,City of London,E09000001,Darkness - lights lit,Fine no high winds,Dry,87
+2015,City of London,E09000001,Darkness - lights lit,Fine no high winds,Wet or damp,2
+2015,City of London,E09000001,Darkness - lights lit,Raining no high winds,Wet or damp,5
+2015,City of London,E09000001,Darkness - lights unlit,Fine no high winds,Dry,1
+2016,City of London,E09000001,Daylight,Fine no high winds,Dry,229
+2016,City of London,E09000001,Daylight,Fine no high winds,Wet or damp,11
+2016,City of London,E09000001,Daylight,Raining no high winds,Wet or damp,9
+2016,City of London,E09000001,Daylight,Fine + high winds,Dry,2
+2016,City of London,E09000001,Darkness - lights lit,Fine no high winds,Dry,96
+2016,City of London,E09000001,Darkness - lights lit,Fine no high winds,Wet or damp,9
+2016,City of London,E09000001,Darkness - lights lit,Raining no high winds,Wet or damp,7
+2017,City of London,E09000001,Daylight,Fine no high winds,Dry,197
+2017,City of London,E09000001,Daylight,Fine no high winds,Wet or damp,10
+2017,City of London,E09000001,Daylight,Raining no high winds,Wet or damp,9
+2017,City of London,E09000001,Darkness - lights lit,Fine no high winds,Dry,74
+2017,City of London,E09000001,Darkness - lights lit,Fine no high winds,Wet or damp,5
+2017,City of London,E09000001,Darkness - lights lit,Raining no high winds,Wet or damp,14
+2018,City of London,E09000001,Daylight,Fine no high winds,Dry,178
+2018,City of London,E09000001,Daylight,Fine no high winds,Wet or damp,3
+2018,City of London,E09000001,Daylight,Raining no high winds,Wet or damp,10
+2018,City of London,E09000001,Daylight,Snowing no high winds,Wet or damp,1
+2018,City of London,E09000001,Daylight,Raining + high winds,Wet or damp,1
+2018,City of London,E09000001,Darkness - lights lit,Fine no high winds,Dry,55
+2018,City of London,E09000001,Darkness - lights lit,Fine no high winds,Wet or damp,8
+2018,City of London,E09000001,Darkness - lights lit,Raining no high winds,Dry,1
+2018,City of London,E09000001,Darkness - lights lit,Raining no high winds,Wet or damp,10
+2019,City of London,E09000001,Daylight,Fine no high winds,Dry,166
+2019,City of London,E09000001,Daylight,Fine no high winds,Wet or damp,7
+2019,City of London,E09000001,Daylight,Raining no high winds,Dry,1
+2019,City of London,E09000001,Daylight,Raining no high winds,Wet or damp,12
+2019,City of London,E09000001,Daylight,Fine + high winds,Dry,1
+2019,City of London,E09000001,Daylight,Fine + high winds,Wet or damp,1
+2019,City of London,E09000001,Darkness - lights lit,Fine no high winds,Dry,79
+2019,City of London,E09000001,Darkness - lights lit,Fine no high winds,Wet or damp,2
+2019,City of London,E09000001,Darkness - lights lit,Raining no high winds,Wet or damp,12
+2019,City of London,E09000001,Darkness - lights lit,Fine + high winds,Wet or damp,1
+2020,City of London,E09000001,Daylight,Fine no high winds,Dry,54
+2020,City of London,E09000001,Daylight,Fine no high winds,Wet or damp,2
+2020,City of London,E09000001,Daylight,Raining no high winds,Wet or damp,8
+2020,City of London,E09000001,Daylight,Fine + high winds,Dry,1
+2020,City of London,E09000001,Darkness - lights lit,Fine no high winds,Dry,21
+2020,City of London,E09000001,Darkness - lights lit,Fine no high winds,Wet or damp,9
+2020,City of London,E09000001,Darkness - lights lit,Raining no high winds,Wet or damp,9
+2020,City of London,E09000001,Darkness - lights lit,Fine + high winds,Dry,1
